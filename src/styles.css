@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+  max-width: 60%;
+  margin: auto;
+
+  padding: 2rem;
+}
+
+.Output {
+  margin-top: 1rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+}
